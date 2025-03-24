@@ -29,5 +29,5 @@ def cartoonize_image(image_path):
     cv2.destroyAllWindows()
 
 # 사용 예시
-input_image_path = "D:/python/cv/nezuko.jpg"  # 변환할 이미지 파일 경로
+input_image_path = "input.jpg"  # 변환할 이미지 파일 경로
 cartoonize_image(input_image_path)
